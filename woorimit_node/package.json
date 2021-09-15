@@ -1,0 +1,23 @@
+{
+  "name": "woorimit_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+
+"dependencies": {
+  "ejs": "^3.1.5",
+  "express": "^4.17.1"
+},
+  "scripts": {
+    "start": "pm2 start app.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keyword": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "usl": ""
+  }
+}
